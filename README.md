@@ -1,13 +1,13 @@
 ### Olá, mundo! Eu sou a Ana Beatriz Almeida 👋
 
-- 🔭 Estou atualmente estagiando em SUporte/Infraestrutura
-- 🌱 Iniciante em Tecnologia, aprendendo HTML, CSS e JavaScript
-- 🌱 Estudante de Ciência e Tecnologia na UFABC
-- 👯 Estou buscando em colaborar em projetos de aspirantes a desenvolvimento web
-- 🤔 estou prcurando ajuda com banco de dados, decidi que quero aprender sobre, indicações de livros?
-- 💬 Me pergunte sobre livro que saberei kskksks
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidades: Estou aprendendo inglês (se virem erros, podem me corrigir kkk), amo voluntariado, gosto de particpar de Hackthons
+- 🔭 I'm currently an intern in Support/Infrastructure
+- 🌱 Tech Novice, updating HTML, CSS and JavaScript
+- 🌱 Science and Technology Student at UFABC
+- 👯 I'm looking to collaborate on projects of aspiring web development
+- 👯 I'm looking for database help deciding what I want to learn about, 🤔 books with what?
+- 💬 Ask me about a book I'll know LOL
+- 😄 Pronouns: She/Her
+- ⚡ Curiosities: learning English (if you see mistakes, correct me, I'm learning LOL), I love volunteering and participate in Hackthons
 
 <div align="center">
   <a href="https://github.com/na-beatriz">
