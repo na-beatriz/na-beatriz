@@ -3,6 +3,7 @@
 <img align="center" alt="Gif em formato de anime de mim, uma menina negra com óculos redondos, camiseta preta e cabelo curto e crespo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1097955542737092711/1097955590774472885/picasion.com_eab7bbaa4020981b9f07ffd8463dd371.gif"> 
 
 I'm Ana, I'm study Science and Tecnology, I like to much to tecnology.
+
 Now I learning:
 <div style="display: inline_block"><br>
     <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
