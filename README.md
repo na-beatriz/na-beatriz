@@ -2,7 +2,7 @@
 
 <img align="center" alt="Gif em formato de anime de mim, uma menina negra com óculos redondos, camiseta preta e cabelo curto e crespo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1097955542737092711/1097955590774472885/picasion.com_eab7bbaa4020981b9f07ffd8463dd371.gif"> 
 
-Eu me chamo Ana, estudante de Ciência e Tecnologia e instigada a aprender!
+Eu me chamo Ana, estudante de Ciência e Tecnologia e apaixonada por aprender!
 
 No momento, estou desenvolvendo minhas habilidades nas seguintes tecnologias:
 <div style="display: inline_block"><br>
