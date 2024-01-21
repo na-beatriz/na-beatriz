@@ -3,11 +3,7 @@
 <p align="center">Estudante de Ciência e Tecnologia e iniciante no mundo dos dados.</p> 
 <p align="center">Atualmente estou aprendendo Python, SQL e Power BI</p>
 
-  
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ana-beatriz-almeida-543a5a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana beatriz almeida" height="20" width="30" /></a>
-</p>
+<br>
 
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center">
