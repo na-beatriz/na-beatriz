@@ -29,4 +29,4 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=na-beatriz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="na-beatriz" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=na-beatriz&show_icons=true&theme=dracula&locale=en" alt="na-beatriz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=na-beatriz&show_icons=true&theme=dracula&locale=en" alt="na-beatriz" /></p>
