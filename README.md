@@ -26,5 +26,5 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=na-beatriz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="na-beatriz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=na-beatriz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="na-beatriz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=na-beatriz&show_icons=true&theme=dracula&locale=en" alt="na-beatriz" /></p>
