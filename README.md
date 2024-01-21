@@ -1,7 +1,7 @@
+  <h1 align="center">Olá 👋, Eu sou Ana Beatriz</h1>
 <div>
   <img align="center" alt="Gif em formato de anime de mim, uma menina negra com óculos redondos, camiseta preta e cabelo curto e crespo" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1097955542737092711/1097955590774472885/picasion.com_eab7bbaa4020981b9f07ffd8463dd371.gif"> 
-  <h1 align="center">Olá 👋, Eu sou Ana Beatriz</h1>
-  <h3 align="center">Estudante de Ciência e Tecnologia e iniciante no mundo dos dados.</h3>
+  <p align="center">Estudante de Ciência e Tecnologia e iniciante no mundo dos dados.</p> 
   <p>Atualmente estou aprendendo **Python, SQL e Power BI**</p>
 </div>
   
