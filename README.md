@@ -3,8 +3,6 @@
 <p align="center">Estudante de Ciência e Tecnologia e iniciante no mundo dos dados.</p> 
 <p align="center">Atualmente estou aprendendo Python, SQL e Power BI</p>
 
-<br>
-
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
